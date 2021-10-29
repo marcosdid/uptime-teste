@@ -25,6 +25,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
+  introTitle: "Página com os status dos serviços usados pela Kompa."
+  introMessage: Abaixo temos um card com o nome do serviço e seu respectivo status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
