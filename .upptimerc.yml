@@ -25,7 +25,7 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: dark
+  theme: light
   introTitle: "Página com os status dos serviços usados pela Kompa."
   introMessage: Abaixo temos um card com o nome do serviço e seu respectivo status
 
